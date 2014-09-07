@@ -5,5 +5,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="togit">To Git or not to Git?</string>
+    <string name="eraseButton">I will erase all</string>
 
 </resources>

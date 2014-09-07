@@ -4,6 +4,9 @@ import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
+
+import java.util.EventListener;
 
 
 public class MainLayoutActivity extends ActionBarActivity {
@@ -14,6 +17,9 @@ public class MainLayoutActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main_layout);
     }
 
+    private void eraseButton_Click() {
+
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
